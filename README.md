@@ -1,7 +1,8 @@
 # Bottlenose Utilities
+A small collection of utilities for [Northeastern CCIS's homework management server](https://github.com/CodeGrade/bottlenose).
 
 ### Currently Working
-- Grade Retrieval for Fundamentals II Accelerated
+- __Grade Retrieval for Fundamentals II Accelerated__
 ```
 python get_grade.py [-c or --current]
 ```
@@ -10,7 +11,8 @@ Gets the user's current grade for the class.
 python get_grade.py [-h or --highest]
 ```
 Gets the user's highest possible grade for the class.
-- User Management System
+
+- __User Management System__
 ```
 python add_user.py ref-name username password
 ```
